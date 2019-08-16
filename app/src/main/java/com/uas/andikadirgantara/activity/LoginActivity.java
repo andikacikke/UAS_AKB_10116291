@@ -12,7 +12,8 @@ import com.uas.andikadirgantara.R;
 import com.uas.andikadirgantara.presenter.LoginPresenter;
 import com.uas.andikadirgantara.view.LoginView;
 
-
+/** Created on 12/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class LoginActivity extends AppCompatActivity implements LoginView, View.OnClickListener {
 

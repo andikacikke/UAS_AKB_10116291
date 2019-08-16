@@ -21,7 +21,8 @@ import com.uas.andikadirgantara.view.FriendsDetailView;
 import java.util.Objects;
 import java.util.Random;
 
-
+/** Created on 12/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class FriendsDetailActivity extends AppCompatActivity implements FriendsDetailView, View.OnClickListener {
 

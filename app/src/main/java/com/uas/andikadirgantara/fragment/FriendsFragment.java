@@ -22,7 +22,8 @@ import com.uas.andikadirgantara.view.FriendsView;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/** Created on 12/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class FriendsFragment extends Fragment implements FriendsView, View.OnClickListener {
 

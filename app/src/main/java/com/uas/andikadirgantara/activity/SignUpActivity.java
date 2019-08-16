@@ -12,7 +12,8 @@ import com.uas.andikadirgantara.R;
 import com.uas.andikadirgantara.data.model.User;
 import com.uas.andikadirgantara.presenter.SignUpPresenter;
 import com.uas.andikadirgantara.view.SignUpView;
-
+/** Created on 11/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 
 public class SignUpActivity extends AppCompatActivity implements SignUpView {

@@ -18,7 +18,8 @@ import com.uas.andikadirgantara.presenter.AddEditFriendsPresenter;
 import com.uas.andikadirgantara.view.AddEditFriendsView;
 
 import java.util.Objects;
-
+/** Created on 12/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class AddEditEditFriendsActivity extends AppCompatActivity implements AddEditFriendsView {
 

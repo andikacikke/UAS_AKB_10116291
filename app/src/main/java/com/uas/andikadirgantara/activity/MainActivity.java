@@ -18,7 +18,8 @@ import com.uas.andikadirgantara.fragment.ProfileFragment;
 import com.uas.andikadirgantara.presenter.MainPresenter;
 import com.uas.andikadirgantara.view.MainView;
 
-
+/** Created on 11/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class MainActivity extends AppCompatActivity implements MainView {
 

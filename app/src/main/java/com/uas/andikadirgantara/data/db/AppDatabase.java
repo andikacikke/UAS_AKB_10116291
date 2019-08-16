@@ -8,7 +8,8 @@ import android.content.Context;
 import com.uas.andikadirgantara.data.model.Friends;
 import com.uas.andikadirgantara.data.model.User;
 
-
+/** Created on 15/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 @Database(entities = {Friends.class, User.class}, version = 1,exportSchema = false)
 public abstract class AppDatabase extends RoomDatabase {

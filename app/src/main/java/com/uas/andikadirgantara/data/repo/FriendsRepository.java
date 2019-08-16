@@ -10,7 +10,8 @@ import com.uas.andikadirgantara.data.model.Friends;
 
 import java.util.List;
 
-
+/** Created on 14/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class FriendsRepository {
     private FriendsDao friendsDao;

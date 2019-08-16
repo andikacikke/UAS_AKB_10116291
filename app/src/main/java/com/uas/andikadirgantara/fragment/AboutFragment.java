@@ -12,7 +12,8 @@ import com.uas.andikadirgantara.R;
 import com.uas.andikadirgantara.presenter.AboutPresenter;
 import com.uas.andikadirgantara.view.AboutView;
 
-
+/** Created on 10/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class AboutFragment extends Fragment implements AboutView {
 

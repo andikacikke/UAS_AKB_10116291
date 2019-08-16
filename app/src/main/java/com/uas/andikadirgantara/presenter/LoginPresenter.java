@@ -12,7 +12,8 @@ import com.uas.andikadirgantara.preference.UserPreference;
 import com.uas.andikadirgantara.view.LoginView;
 
 
-
+/** Created on 12/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 public class LoginPresenter {
 
     private LoginView view;

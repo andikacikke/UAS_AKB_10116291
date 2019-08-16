@@ -14,7 +14,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.uas.andikadirgantara.R;
-
+/** Created on 10/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class AboutFragmentManager extends Fragment {
 

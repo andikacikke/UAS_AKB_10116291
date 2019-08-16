@@ -12,7 +12,8 @@ import com.uas.andikadirgantara.view.FriendsView;
 
 import java.util.List;
 
-
+/** Created on 14/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class FriendsPresenter {
 

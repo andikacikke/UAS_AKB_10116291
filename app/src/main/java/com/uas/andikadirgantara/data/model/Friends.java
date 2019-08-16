@@ -5,7 +5,8 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.NonNull;
 
-
+/** Created on 15/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 @Entity(tableName = "friends")
 public class Friends implements Parcelable {

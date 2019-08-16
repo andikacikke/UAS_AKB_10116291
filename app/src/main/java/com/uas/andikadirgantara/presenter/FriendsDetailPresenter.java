@@ -6,7 +6,8 @@ import com.uas.andikadirgantara.data.model.Friends;
 import com.uas.andikadirgantara.data.repo.FriendsRepository;
 import com.uas.andikadirgantara.view.FriendsDetailView;
 
-
+/** Created on 13/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 public class FriendsDetailPresenter {
 

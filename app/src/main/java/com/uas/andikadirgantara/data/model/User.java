@@ -4,7 +4,8 @@ import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;
 import android.support.annotation.NonNull;
 
-
+/** Created on 10/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 
 @Entity(tableName = "user")
 public class User {

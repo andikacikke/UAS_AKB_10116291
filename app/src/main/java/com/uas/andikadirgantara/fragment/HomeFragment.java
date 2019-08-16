@@ -21,7 +21,8 @@ import com.uas.andikadirgantara.view.HomeView;
 import java.util.Objects;
 
 
-
+/** Created on 12/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 public class HomeFragment extends Fragment implements HomeView {
 
     HomePresenter presenter;

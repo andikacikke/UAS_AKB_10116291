@@ -18,7 +18,8 @@ import java.util.ArrayList;
 import java.util.Random;
 
 
-
+/** Created on 15/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 public class FriendsAdapter extends RecyclerView.Adapter<FriendsAdapter.ViewHolder>  {
 
     private ArrayList<Friends> friends;

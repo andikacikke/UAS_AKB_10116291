@@ -15,7 +15,8 @@ import com.uas.andikadirgantara.presenter.ContactPresenter;
 import com.uas.andikadirgantara.view.ContactView;
 
 
-
+/** Created on 11/08/2019 by AndikaDirgantara,10116291.IF7
+ */
 public class ContactFragment extends Fragment implements ContactView, View.OnClickListener {
 
     RelativeLayout lytPhone, lytEmail, lytIG, lytTwitter;
